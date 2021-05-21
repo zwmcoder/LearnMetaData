@@ -1,0 +1,23 @@
+{
+  "version": "2.0",
+  "clipId": "1621577204",
+  "format": "html",
+  "title": "Parsing with ANTLR 4 and Go | Gopher Academy Blog",
+  "link": "https://blog.gopheracademy.com/advent-2017/parsing-with-antlr4-and-go/",
+  "category": "GoodExampleForAntlr",
+  "tags": [],
+  "created_at": "2021-05-21 14:06:44",
+  "mainPath": "index.html",
+  "paths": [
+    "index.json",
+    "a-title_Parsing-with-ANTLR-4-and-Go-Gopher-Academy-Blog",
+    "assets/1621577204-d7940640410f700802cb300458d8b2db.png",
+    "assets/1621577204-f1525dc3f396ba36ca52ce3a7ce37a65.svg",
+    "assets/1621577204-44af5e66473d88facd1079e3aaaa50c6.css",
+    "assets/1621577204-10cfb801d7604dd390392b3b16ce3650.css",
+    "assets/1621577204-ce53c87868aa73d220f7726c087d846e.css",
+    "assets/1621577204-32f65fc98af9b0441a91009d2498853a.css",
+    "assets/1621577204-0c24ab5310b3a265407b30f96b615e7e.css",
+    "index.html"
+  ]
+}
